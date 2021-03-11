@@ -1,75 +1,89 @@
 {
-    "name": "Shreyas Surendra",
-    "tagline": "Software Engineer | MS Computer Science | UCF May 2021",
-    "emailid": "shreyas.sf92@gmail.com",
-    "phone": "+1 916-270-8480",
+    "name": "Saloni Katiyar",
+    "tagline": "Data Scientist Intern | MS Data Analytics | UCF May 2021",
+    "emailid": "salonikatiyar1997@gmail.com",
+    "phone": "+1 407-529-8855",
     "links": {
-        "linkedin": "https://www.linkedin.com/in/shreyas-surendra-267601178/",
-        "gitrepo": "https://github.com/shreyassf92"
+        "linkedin": "https://www.linkedin.com/in/saloni-katiyar-154b6b156/",
+        "gitrepo": "https://github.com/salonikatiyar"
     },
     "about": "/stest/ss",
     "timeline": [
         {
-            "title": "Software Development Engineer – Intern",
+            "title": "Data Scientist – Intern",
             "org": "Advancing Technologies",
-            "duration": "February 2021 – May 2021",
+            "duration": "October 2020 – May 2021",
             "place": "Orlando, Florida",
-            "description": "Create UI designs and develop screens for an android mobile application that provides performance analytics to athletes in combat sports.Design and implement database in MongoDB.Design and develop a serverless REST API backend on AWS using API Gateway and Lambda services"
+            "description": "Developing a solution for providing performance analytics for combat sports athletes and an app which collects the data through the device and to build a machine learning model which provides useful insights to the application. Engineering the database on the server side using Mongo DB and deploying it on AWS. Also, to establish connectivity between the database and the machine learning models. Exploring data and prospects of suitable algorithm for building the time-series and classification models. Using python language for machine learning and visualization purposes. By the end of this project we will have an application made using Xamarin forms for the wearable device which will be coming out in the market soon"
         },
         {
-            "title": "Information Technology Intern",
-            "org": "FedEx Services",
-            "duration": "August 2020 - November 2020",
-            "place": "Collierville, Tennessee",
-            "description": "Developed an automation workflow that fetches information of networking devices through REST API, performs extensive data validation, and updates the cleaned data into a centralized system; This supported the company’s transition to Software Defined Networks.Investigated performance issue and revamped the application to implement asynchronous design; enabled the program to run 12x faster.Developed an application that generates a report which shows the organization of ~160K networking devices in the FedEx data centers;The tool eliminated some of the manual tasks and assisted network engineers and data center capacity planners in their everyday activities.Participated in agile ceremonies and meetings with different stakeholders"
-        },
-        {
-            "title": "Master's Degree, Computer Science",
+            "title": "Graduate Teaching Assitant",
             "org": "University of Central Florida",
             "duration": "August 2019 - May 2021",
             "place": "Orlando, Florida",
-            "description": "Design and Analysis of Algorithms. Distributed Database Concepts. Advanced Computer Architecture. Machine Learninig. Natural Language Processing. Data Visualization Techniques"
+            "description": "Solving queries and aiding undergraduate students understand the computer science course material. Structuring lab material and mentoring lab sessions. Grading and evaluating submissions of students’ programming assignments and tests"
         },
         {
-            "title": "Software Engineer",
-            "org": "Mphasis",
-            "duration": "March 2015 - July 2019",
-            "place": "Bengaluru, India",
-            "description": "Designed and developed software components for a windows desktop application, FedEx Ship Manager, an end-to-end shipping application. Developed new features of the application that improved user experience, increased customer adoption and enabled product rationalization. Designed and developed a web application, an interface to the TFS version control web API; empowered the testing team to effortlessly track the data file changes in every new build and saved 2% of the team’s effort per day. Designed and developed a unit test execution tool to fit into the architecture that was employed; helped developers to test their code readily with its ability to isolate each test module’s execution environment and effortlessly owing to its user-friendly setup. Spearheaded a team of 3 for a unit testing project; achieved 70% code coverage and a significant improvement in software quality and build turnover time. Designed and developed an application to decrypt and display the content of an application data file used by multiple development and testing teams to analyze bugs; improved teams’ efficiency in detecting and fixing bugs. Worked on a Proof of Concept for developing a voice interface to the FedEx Tracking Web API using Alexa skill kit; presented the organization with a new opportunity to develop a voice driven app as an interface to tracking service. Awarded the summit award twice in a row for my contribution to the team and the organization’s innovation portal"
+            "title": "Data Analyst Consultant",
+            "org": "University of Central Florida",
+            "duration": "August 2020 - December 2020",
+            "place": "Orlando, Florida",
+            "description": "The goal of this project was to help UCF CECS improve their college ranking by analyzing the USNWR ranking data for past 10 years, identify any trends, build a rank predictor algorithm and give recommendations to UCF CECS on the most important steps needed to improve their college rankings. Spearheaded the team to build an analytical dashboard using tableau to present insights or trends along with an interactive tool integrated using TabPy that can predict the ranking for a college where changing a parameter can reflect the change in ranking it will cause. Implemented two models: Ordinal Regression for prediction and LSTM RNN model for time series analysis.The code was written in python"
         },
         {
-            "title": "Bachelor's Degree, Telecommunication Engineering",
-            "org": "Visveswaraya Technological University",
-            "duration": "August 2010 - July 2014",
-            "place": "Bengaluru, India",
+            "title": "Master's Degree, Data Analytics",
+            "org": "University of Central Florida",
+            "duration": "August 2019 - May 2021",
+            "place": "Orlando, Florida",
+            "description": ""
+        },
+        {
+            "title": "Intern",
+            "org": "Quantta Analytics",
+            "duration": "February 2018 - April 2018",
+            "place": "Kolkata, India",
+            "description": "Analyzed large amounts of data to find patterns of fraud. Learned basic concepts of ETL process and business intelligence. Automated the process of data scraping using R and worked closely with clients to establish problem specifications and system design"
+        },
+        {
+            "title": "Project Assistant Intern",
+            "org": "Tata Consultancy Services",
+            "duration": "May 2017 - July 2017",
+            "place": "Kolkata, India",
+            "description": "Worked on Visual studio IDE. Involved in complete life cycle including analysis, design and development. Applied OOP’s concept, ADO DOTNET, namespaces in designing and development of an application"
+        },
+        {
+            "title": "Bachelor's Degree, Computer Science",
+            "org": "Amity University",
+            "duration": "August 2014 - May 2018",
+            "place": "Lucknow, India",
             "description": ""
         }
     ],
     "projects": [
         {
-            "title": "Computer Architecture Simulation Application",
-            "description": "Applied object-oriented programming concepts, design principles, design patterns to develop cache simulation, branch prediction & dynamic scheduling simulation tools in Java, under supervision of Dr. Yan Solihin.",
-            "link": "https://github.com/shreyassf92"
+            "title": "Abstractive Text Summarizer",
+            "description": "Proposed a method that utilizes abstractive techniques for text classification. Built a model that takes sentences into an encoder-decoder architecture and scores them based on their words and the frequencies of those words. For the model used a two-layered bidirectional RNN with LSTMs on the input data and two layers, each with an LSTM using bahdanau attention on the target data.",
+            "link": "https://github.com/salonikatiyar/Abstractive-Text-Summarizer"
         },
         {
-            "title": "Sentiment Analysis of Customer Reviews",
-            "description": "Applied text pre-processing methods and modeled a Naïve Bayes classifier as a baseline and developed more robust neural classification model using LSTM to classify a customer review into positive or negative.",
-            "link": "https://github.com/shreyassf92"
+            "title": "Recommendation System",
+            "description": "Formulated a personalized recommendation system for ecommerce websites by tailoring the contents based on needs of each user. Presented exploratory data analysis using tableau and built a model using LightFM to compute matrix factorization and optimized the cost function. Performed hyper parameter tuning and captured the best estimator that performed better using AUC as evaluation metric. From the precision scores it was inferred that top 3 recommended items were 44.28% relevant to user.",
+            "link": "https://github.com/salonikatiyar/Recommendation-System"
         },
         {
-            "title": "Visualization of US Non-Immigrant data",
-            "description": "Developed a web based, interactive visualization using R and D3(Java Script) to visualize & analyze US non-immigrant data using bubble plot, population pyramid, donut chart and geo visualization(choropleth).",
-            "link": "https://github.com/shreyassf92"
+            "title": "Advanced Regression Techniques",
+            "description": "Predicted the final price of each house in Iowa based on 79 different features. Built a model and deducted that lasso regressions performs the best with a cross validation RMSE-score of 0.1121. The XGBoost model also performed well with a cross validation RMSE of 0.1162, as the Lasso cross validated RMSE is better than XGBoost’s CV score, it was decided to weight the Lasso results to double.",
+            "link": "https://github.com/salonikatiyar"
         },
         {
-            "title": "Resume Builder",
-            "description": "A SPA web application that organizes the resume into a rich UI using React.js. It features an open-close, timeline component that orders education and employment in a chronological order. And a carousel component that contains projects and its description.",
-            "link": "https://github.com/shreyassf92"
+            "title": "Determine Factors Influencing Placements Using Machine Learning",
+            "description": "In this project, dataset of campus placement was used to analyze factors which contributes towards the success of student getting placed. Did exploratory data analysis and built classification models such as decision tree, support vector machine, naïve bayes and random forest models. While using classification algorithms, Random Forest performed the best with accuracy of 95.24%. Executed dimension reduction techniques using Principal Component Analysis and t-SNE. Implemented clustering algorithms such as K-Means, Clara, Pam, Hierarchical clustering with Kohonen, and Self-Organizing Map. K-Means with k=2 performed exceptionally well.",
+            "link": "https://github.com/salonikatiyar/Academic-and-Employability-Factors-Influencing-Placements"
         },
         {
-            "title": "Geotab Intersection Congestion Prediction",
-            "description": "Performed feature engineering and developed a ML regression model to predict traffic congestion in an intersection.",
-            "link": "https://github.com/shreyassf92"
+            "title": "Visulaization of Gun Violence in the US",
+            "description": "Main goal was to draw insights on the basis of timeline, location and the count of number of victims. Performed in-depth analysis and developed a dashboard using RShiny to demonstrate the results.",
+            "link": "https://github.com/salonikatiyar/Gun-Violence-in-US"
         }
     ]
 }

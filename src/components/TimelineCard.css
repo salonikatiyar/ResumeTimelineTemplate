@@ -5,7 +5,7 @@
     padding: 15px;
     position: relative;
     border-radius: 10px;
-    background-color: #F7F5F6;
+    background-color: #f5efef;
     /* background: linear-gradient(#5EC2BA, #66D1B4, #7DDFA6, #A0EA94, #CAF381, #F9F871); */
 }
 
@@ -43,7 +43,7 @@
 .body ul li::before {
     content: "\2022";
     position: absolute;
-    color: #2b6777;
+    color: #931a25;
     left: -15px;
     top: 5px;
 }
